@@ -1,6 +1,7 @@
 # pi5_whisper_voice_assistant
 This is a Raspberry Pi 5 whisper C++ voice assistant - backwards compatible with Pi4. Say "green light on" or "red light on" and the corresponding GPIO pin will go high (output25 for green, output 24 for red). You can copy this file and modify it to use any number of phrases or outputs. Use a relay hat to control larger devices like, motors, solenoids, or buzzers. 
-See the video of how it works here:
+
+See the video of how it works here: https://youtu.be/jpW9foRIwv0
 
 1. git clone https://github.com/ggerganov/whisper.cpp
 2. Install libraries:
