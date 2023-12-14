@@ -1,6 +1,7 @@
 // Real-time speech recognition of input from a microphone
 //Use Whisper C++ to make your own raspberry pi 5 voice assistant. Toggle LED's on and off with GPIO 24 and 25.
-//Written by Sam Wechsler - December 13th, 2023
+//Original OpenAI whisper C++ implementation by Georgi Gerganov
+//GPIO functionality integrated by Sam Wechsler - December 13th, 2023
 // A very quick-n-dirty implementation serving mainly as a proof of concept.
 //
 #include "common-sdl.h"
